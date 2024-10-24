@@ -1,4 +1,4 @@
-# Hi, There! (¬‿¬)  ![Profile views](https://gpvc.arturio.dev/Gam13t)
+# Hi, There! (¬‿¬)  [![Profile views](https://u8views.com/api/v1/github/profiles/53529326/views/day-week-month-total-count.svg)](https://u8views.com/github/Gam13t)
 ![Ao](https://github.com/Gam13t/Gam13t/blob/master/Ao.gif)
 
 ## My Stack🐱‍💻
