@@ -16,5 +16,3 @@ As well got intermediate knowledge in alghorithms and data structures.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gam13t&layout=compact">
 </p>
 
-## Probably me right now 🥴🥴🥴
-![Ao](https://github.com/Gam13t/Gam13t/blob/master/giphy.gif)
